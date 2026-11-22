@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/autonormic-logo.svg" alt="Autonormic — OBSERVE. LEARN. EXECUTE." width="720">
+</p>
 
 <!--
 **autonormic/autonormic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
